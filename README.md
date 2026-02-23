@@ -1,5 +1,12 @@
-🔐 Quantum-Safe Hybrid Key Distribution for IoT
+# 🔐 Quantum-Safe Hybrid Key Distribution for IoT
 BB84 Quantum Key Distribution + Lattice-Based Post-Quantum Authentication
+![Python](https://img.shields.io/badge/Python-3.10-blue.svg)
+![Research](https://img.shields.io/badge/Research-Quantum--Safe-green)
+![Post-Quantum](https://img.shields.io/badge/Cryptography-Post--Quantum-orange)
+![QKD](https://img.shields.io/badge/Protocol-BB84-purple)
+![License](https://img.shields.io/badge/License-MIT-blue.svg)
+![Status](https://img.shields.io/badge/Status-Research%20Simulation-success)
+
 
 📌 Project Overview
 This repository presents a hybrid quantum-safe communication framework that integrates:

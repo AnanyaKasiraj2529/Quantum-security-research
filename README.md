@@ -7,6 +7,7 @@ BB84 Quantum Key Distribution + Lattice-Based Post-Quantum Authentication
 ![License](https://img.shields.io/badge/License-MIT-blue.svg)
 ![Status](https://img.shields.io/badge/Status-Research%20Simulation-success)
 
+Official IEEE publication link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=f-wHAfsAAAAJ&citation_for_view=f-wHAfsAAAAJ:u5HHmVD_uO8C
 
 📌 Project Overview
 This repository presents a hybrid quantum-safe communication framework that integrates:

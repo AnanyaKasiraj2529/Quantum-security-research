@@ -46,13 +46,14 @@ With the rise of quantum computing:
 This project explores a hybrid security architecture combining the strengths of both paradigms.
 
 ## Methodology
+<img width="353" height="310" alt="image" src="https://github.com/user-attachments/assets/c2685d8e-f53c-4ebe-a82e-ac43b60ead14" />
 
 1. Simulated quantum key exchange using BB84 principles
 2. Generated classical secure channel
 3. Integrated PQC authentication layer
 4. Evaluated latency and security trade-offs
 
-##🔬 Implementation architecture design
+🔬 Implementation architecture design
 
 1️⃣ BB84 Quantum Key Distribution
 Simulates:
@@ -96,6 +97,9 @@ With Attack	20–30%
 ✔ Successful lattice encryption & decryption
 ✔ Detectable QBER increase under attack
 ✔ Demonstration of hybrid quantum-safe layering
+✔ Successful key exchange verified
+✔Hybrid model reduced attack surface
+✔PQ authentication resistant to classical attacks
 
 🛡 Security Insights
 This hybrid approach:

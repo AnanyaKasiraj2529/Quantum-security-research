@@ -30,6 +30,13 @@ The goal is to design and simulate a quantum-resilient key exchange protocol sui
 This implementation supports the research work presented in:
 Quantum-Safe Protocols Design for IoT Communications: Critical Observation and Analysis (CISCON 2025)
 
+## My Contributions
+
+- Implemented BB84 QKD protocol simulation from scratch
+- Designed hybrid key distribution workflow
+- Integrated lattice-based authentication model
+- Developed comparative performance evaluation framework
+
 🧠 Motivation
 With the rise of quantum computing:
 - Classical cryptographic schemes (RSA, ECC) are vulnerable to Shor’s Algorithm
@@ -37,6 +44,13 @@ With the rise of quantum computing:
 - Pure QKD systems suffer from scalability and noise sensitivity
 - Lattice-based cryptography faces side-channel vulnerabilities
 This project explores a hybrid security architecture combining the strengths of both paradigms.
+
+## Methodology
+
+1. Simulated quantum key exchange using BB84 principles
+2. Generated classical secure channel
+3. Integrated PQC authentication layer
+4. Evaluated latency and security trade-offs
 
 🔬 Implementation architecture design
 

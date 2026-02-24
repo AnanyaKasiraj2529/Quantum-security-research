@@ -7,6 +7,14 @@ BB84 Quantum Key Distribution + Lattice-Based Post-Quantum Authentication
 ![License](https://img.shields.io/badge/License-MIT-blue.svg)
 ![Status](https://img.shields.io/badge/Status-Research%20Simulation-success)
 
+## Original Implementation
+
+All algorithms and simulations in this repository were independently
+implemented as part of my undergraduate research project on
+quantum-safe authentication for IoT systems.
+
+No tutorial or external implementation was reused.
+
 Official IEEE publication link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=f-wHAfsAAAAJ&citation_for_view=f-wHAfsAAAAJ:u5HHmVD_uO8C
 
 📌 Project Overview
